@@ -182,7 +182,7 @@
      cx="98"
      cy="783.99"
      r="5"
-     style="fill:#83B9B8;fill-opacity:1" />
+     style="fill:#5e81ac;fill-opacity:1" />
   <g
      id="button-default-indicator"
      transform="translate(-367.5 -2.5001)">
@@ -862,48 +862,48 @@
      y="930.26"
      width="8"
      height="4"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#83B9B8;fill-opacity:1" />
   <rect
      id="itemview-pressed-bottom"
      x="52"
      y="942.26"
      width="8"
      height="4"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#83B9B8;fill-opacity:1" />
   <path
      id="itemview-pressed"
      d="m52 934.26h8v8h-8z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#83B9B8;fill-opacity:1" />
   <path
      id="itemview-pressed-topright"
      d="m60 930.26c4 0 4 4 4 4h-4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#83B9B8;fill-opacity:1" />
   <path
      id="itemview-pressed-bottomright"
      d="m60 942.26h4s0 4-4 4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#83B9B8;fill-opacity:1" />
   <rect
      id="itemview-pressed-right"
      x="60"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#83B9B8;fill-opacity:1" />
   <rect
      id="itemview-pressed-left"
      x="48"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#83B9B8;fill-opacity:1" />
   <path
      id="itemview-pressed-topleft"
      d="m52 930.26v4h-4s0-4 4-4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#83B9B8;fill-opacity:1" />
   <path
      id="itemview-pressed-bottomleft"
      d="m48 942.26h4v4c-4 0-4-4-4-4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#83B9B8;fill-opacity:1" />
   <rect
      id="itemview-toggled-top"
      x="71"
@@ -3623,14 +3623,14 @@
   <path
      id="menu-normal"
      d="m118 481h48v48h-48z"
-     style="fill:#3c3c3c;fill-opacity:1" />
+     style="fill:#252a33;fill-opacity:1" />
   <g
      id="menu-normal-topleft"
      transform="matrix(1.6667,0,0,1.6667,-85.774575,-693.60683)">
     <path
        d="m 122.26,698.75 c -3.3229,10e-4 -5.9977,2.6768 -5.9977,6 h 6 z"
        id="path1079"
-       style="fill:#3c3c3c;fill-opacity:1" />
+       style="fill:#252a33;fill-opacity:1" />
     <path
        id="path66441"
        d="M 117.99609 471 C 112.45782 471.00167 108 475.46122 108 481 L 109.99609 481 C 109.99609 476.56709 113.56357 472.99743 117.99609 472.99609 L 117.99609 471 z "
@@ -3643,7 +3643,7 @@
     <path
        d="m116.26 703.75h6v48h-6z"
        id="path1082"
-       style="fill:#3c3c3c;fill-opacity:1" />
+       style="fill:#252a33;fill-opacity:1" />
     <path
        d="m 116.26,703.75 h 1.19998 v 48 H 116.26 Z"
        id="path66626"
@@ -3659,7 +3659,7 @@
       <path
          d="m 190,245.02 h 50 v 17.4427 h -50 z"
          id="path1100"
-         style="fill:#3c3c3c;stroke-width:0.998847" />
+         style="fill:#252a33;stroke-width:0.998847" />
       <path
          d="m 190,245.01999 h 50 v 3.48854 h -50 z"
          id="path83751"
@@ -3727,7 +3727,7 @@
     <path
        d="m 20.999,480.0003 a 10,10 0 0 1 10,-10 v 10 z"
        id="path1128"
-       style="fill:#3c3c3c" />
+       style="fill:#252a33" />
     <path
        id="path72191"
        style="fill:#83B9B8;fill-opacity:1"

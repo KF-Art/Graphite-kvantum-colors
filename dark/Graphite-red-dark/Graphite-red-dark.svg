@@ -862,48 +862,48 @@
      y="930.26"
      width="8"
      height="4"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#F44336;fill-opacity:1" />
   <rect
      id="itemview-pressed-bottom"
      x="52"
      y="942.26"
      width="8"
      height="4"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#F44336;fill-opacity:1" />
   <path
      id="itemview-pressed"
      d="m52 934.26h8v8h-8z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#F44336;fill-opacity:1" />
   <path
      id="itemview-pressed-topright"
      d="m60 930.26c4 0 4 4 4 4h-4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#F44336;fill-opacity:1" />
   <path
      id="itemview-pressed-bottomright"
      d="m60 942.26h4s0 4-4 4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#F44336;fill-opacity:1" />
   <rect
      id="itemview-pressed-right"
      x="60"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#F44336;fill-opacity:1" />
   <rect
      id="itemview-pressed-left"
      x="48"
      y="934.26"
      width="4"
      height="8"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#F44336;fill-opacity:1" />
   <path
      id="itemview-pressed-topleft"
      d="m52 930.26v4h-4s0-4 4-4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#F44336;fill-opacity:1" />
   <path
      id="itemview-pressed-bottomleft"
      d="m48 942.26h4v4c-4 0-4-4-4-4z"
-     style="fill:#cccccc;fill-opacity:1" />
+     style="fill:#F44336;fill-opacity:1" />
   <rect
      id="itemview-toggled-top"
      x="71"

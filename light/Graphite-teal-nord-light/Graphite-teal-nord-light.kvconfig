@@ -1,5 +1,5 @@
 [%General]
-author=Vince Liuice, based on KvAdapta by Tsu Jan
+author=Kevin F., based on Vince Liuice work
 comment=An uncomplicated theme inspired by the Materia GTK theme
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
